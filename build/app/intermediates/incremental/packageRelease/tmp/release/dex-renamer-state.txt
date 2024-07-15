@@ -1,0 +1,4 @@
+#Mon Jul 15 01:58:49 EET 2024
+base.0=D\:\\Flutter\\codsoft\\projects\\expense_tracker_codsoft\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

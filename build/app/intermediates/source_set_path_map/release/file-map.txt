@@ -1,0 +1,15 @@
+com.example.expense_tracker_codsoft.app-jetified-annotation-experimental-1.1.0-0 C:\Users\workstation\.gradle\caches\transforms-3\0ee9e38e81120acb405b16317f88005e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.expense_tracker_codsoft.app-jetified-window-java-1.0.0-beta04-1 C:\Users\workstation\.gradle\caches\transforms-3\52327bdbb6080289c26b0e652865ef2f\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.expense_tracker_codsoft.app-jetified-startup-runtime-1.1.1-2 C:\Users\workstation\.gradle\caches\transforms-3\719ef72f00b0d8144d795a9cf7ec0f33\transformed\jetified-startup-runtime-1.1.1\res
+com.example.expense_tracker_codsoft.app-jetified-window-1.0.0-beta04-3 C:\Users\workstation\.gradle\caches\transforms-3\78fbd64af62dbdf102ba7c817970421b\transformed\jetified-window-1.0.0-beta04\res
+com.example.expense_tracker_codsoft.app-core-1.6.0-4 C:\Users\workstation\.gradle\caches\transforms-3\7c1d12144b2ebda7a6da3814a09658ad\transformed\core-1.6.0\res
+com.example.expense_tracker_codsoft.app-main-5 D:\Flutter\codsoft\projects\expense_tracker_codsoft\android\app\src\main\res
+com.example.expense_tracker_codsoft.app-release-6 D:\Flutter\codsoft\projects\expense_tracker_codsoft\android\app\src\release\res
+com.example.expense_tracker_codsoft.app-pngs-7 D:\Flutter\codsoft\projects\expense_tracker_codsoft\build\app\generated\res\pngs\release
+com.example.expense_tracker_codsoft.app-resValues-8 D:\Flutter\codsoft\projects\expense_tracker_codsoft\build\app\generated\res\resValues\release
+com.example.expense_tracker_codsoft.app-rs-9 D:\Flutter\codsoft\projects\expense_tracker_codsoft\build\app\generated\res\rs\release
+com.example.expense_tracker_codsoft.app-mergeReleaseResources-10 D:\Flutter\codsoft\projects\expense_tracker_codsoft\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.expense_tracker_codsoft.app-mergeReleaseResources-11 D:\Flutter\codsoft\projects\expense_tracker_codsoft\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.expense_tracker_codsoft.app-merged_res-12 D:\Flutter\codsoft\projects\expense_tracker_codsoft\build\app\intermediates\merged_res\release
+com.example.expense_tracker_codsoft.app-packaged_res-13 D:\Flutter\codsoft\projects\expense_tracker_codsoft\build\isar_flutter_libs\intermediates\packaged_res\release
+com.example.expense_tracker_codsoft.app-packaged_res-14 D:\Flutter\codsoft\projects\expense_tracker_codsoft\build\path_provider_android\intermediates\packaged_res\release
